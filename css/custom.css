@@ -1,0 +1,107 @@
+/* CSS */
+
+html, body{
+	width: 100%; height: 100%;
+	background-color: white;
+}
+
+.navbar-brand img{
+	width: 50px; height: 50;
+	margin: 0px 5px; padding: 0px;
+	border-radius: 14px;
+}
+
+.navbar span
+{
+	color: black;
+}
+
+nav{
+	background-color: white;
+}
+
+#my_key{
+	width: 100%; height: auto;
+	padding: 3rem 0px;
+	background-color: black;
+	color: white;
+}
+
+#my_key_main, #my_key_contact{
+	width: 100%; height: auto;
+	text-align: center;
+}
+
+#my_key_about{
+	width: 100%; height: auto;
+	padding: 3rem 0px;
+	background-color: black;
+	color: white;
+	
+}
+
+.col-6
+{
+	margin: 0 auto;
+	width: 350px;
+}
+
+#my_key img{
+	width: 300px; height: auto;
+	margin: 1rem 0px;
+	border-radius: 90px;
+	filter: drop-shadow(0 0 2.0rem white);
+}
+
+#my_key h1{
+	margin: 1rem 0px;
+	font-size: 3rem;
+}
+
+#my_key p{
+	margin: 1rem 0px;
+	font-size: 1.2rem;
+}
+
+#my_portfolio{
+	text-align: center;
+}
+
+#my_portfolio{
+	width: 100%; height: auto;
+	background-color: antiquewhite;
+}
+
+#my_about{
+	width: 100%; height: auto;
+	background-color: sandybrown;
+	color: white;
+}
+
+#my_contact{
+	width: 100%; height: auto;
+	background-color: antiquewhite;
+}
+
+#my_contact i{
+	padding: 0.2rem;
+	font-size: 2rem;
+}
+
+.card-body a
+{
+	font-size: 25px;
+	margin-right: 10px;
+	color: inherit;
+	text-decoration: none;
+}
+.icon-img a
+{
+	font-size: 50px;
+	color: inherit;
+	text-decoration: none;
+}
+.icon-img i
+{
+	padding: auto 0;
+}
